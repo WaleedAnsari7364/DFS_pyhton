@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DFS_Assig01", "DFS_Assig01\DFS_Assig01.pyproj", "{FDBAD021-F229-438F-AF32-1CA0B1D8C987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBAD021-F229-438F-AF32-1CA0B1D8C987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBAD021-F229-438F-AF32-1CA0B1D8C987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3120E366-E91F-45F0-B80D-557D7A5A80C5}
+	EndGlobalSection
+EndGlobal
